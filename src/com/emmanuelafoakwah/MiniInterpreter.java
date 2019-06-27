@@ -1,5 +1,15 @@
 package com.emmanuelafoakwah;
 
+/**
+ * This class implements a simple interpreter. The interpreter is capable of processing three types of instruction:
+ * 1) Assignment
+ * 2) Addition
+ * 3) Return
+ * See ReadMe for further details
+ * The class has 4 example instructions hardcoded before the main method
+ * @Author Emmanuel Afoakwah
+ */
+
 public class MiniInterpreter {
 
     /**
